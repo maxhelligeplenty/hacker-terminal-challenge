@@ -1,5 +1,5 @@
 # hacker-terminal-challenge
-- commands:
+Commands:
 1. list - lists all commands
 2. engage - runs matrix annimation
 3. connect - connects to remote server
